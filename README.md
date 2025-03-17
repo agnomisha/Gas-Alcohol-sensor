@@ -93,7 +93,7 @@ Possible improvements for future versions include:
 
 ## 📸 Project Demonstration
 
-<img src="your-image-file-name.jpg" alt="Project Image" width="50%">
+<img src="alcohol_sensor_arduino.jpg" alt="Project Image" width="50%">
 
 ---
 
