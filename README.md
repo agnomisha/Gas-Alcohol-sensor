@@ -1,10 +1,5 @@
 # Gas Leak and Alcohol Detection System using Arduino Uno and MQ-2 Sensor
 
-![Project Image](alcohol_sensor_arduino.jpg)
-*(Replace "your-image-file-name.jpg" with your actual image file name.)*
-
-**Date:** Monday, March 17, 2025
-
 ---
 
 ## 🚀 Project Overview
@@ -98,7 +93,7 @@ Possible improvements for future versions include:
 
 ## 📸 Project Demonstration
 
-*(Insert your project demonstration video or images here.)*
+<img src="your-image-file-name.jpg" alt="Project Image" width="50%">
 
 ---
 
